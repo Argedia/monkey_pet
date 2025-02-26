@@ -1,0 +1,16 @@
+monkey.spec
+build/monkey/Analysis-00.toc
+build/monkey/base_library.zip
+build/monkey/EXE-00.toc
+build/monkey/monkey.pkg
+build/monkey/PKG-00.toc
+build/monkey/PYZ-00.pyz
+build/monkey/PYZ-00.toc
+build/monkey/warn-monkey.txt
+build/monkey/xref-monkey.html
+build/monkey/localpycs/pyimod01_archive.pyc
+build/monkey/localpycs/pyimod02_importers.pyc
+build/monkey/localpycs/pyimod03_ctypes.pyc
+build/monkey/localpycs/pyimod04_pywin32.pyc
+build/monkey/localpycs/struct.pyc
+dist/monkey.exe
