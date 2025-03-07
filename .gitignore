@@ -14,3 +14,4 @@ build/monkey/localpycs/pyimod03_ctypes.pyc
 build/monkey/localpycs/pyimod04_pywin32.pyc
 build/monkey/localpycs/struct.pyc
 dist/monkey.exe
+__pycache__/states.cpython-313.pyc
